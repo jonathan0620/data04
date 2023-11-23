@@ -8,7 +8,7 @@ public class 배열입력배열반환_가변길이3 {
 
 	public static void main(String[] args) {
 		int[] n = { 44, 3, 22, 66, 88 };
-		int find = 3;
+		int find = 9;
 		Solution6 s = new Solution6();
 		int[] result = s.solution(n, find);
 		System.out.println(Arrays.toString(result));
